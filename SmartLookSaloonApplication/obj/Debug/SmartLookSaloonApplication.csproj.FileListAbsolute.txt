@@ -1,0 +1,13 @@
+E:\Projects\SmartLookSaloonApplication\bin\Debug\SmartLookSaloonApplication.exe.config
+E:\Projects\SmartLookSaloonApplication\bin\Debug\SmartLookSaloonApplication.exe
+E:\Projects\SmartLookSaloonApplication\bin\Debug\SmartLookSaloonApplication.pdb
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.csproj.AssemblyReference.cache
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.Form1.resources
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.Properties.Resources.resources
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.csproj.GenerateResource.cache
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.csproj.CoreCompileInputs.cache
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.exe
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.pdb
+E:\Projects\SmartLookSaloonApplication\bin\Debug\SaloonLibrary.dll
+E:\Projects\SmartLookSaloonApplication\bin\Debug\SaloonLibrary.pdb
+E:\Projects\SmartLookSaloonApplication\obj\Debug\SmartLookSaloonApplication.csproj.CopyComplete

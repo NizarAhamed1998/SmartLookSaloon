@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaloonLibrary", "SaloonLibrary\SaloonLibrary.csproj", "{0B47C9C6-90E0-4C63-AFCE-82740FD8CA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLookSaloonApplication", "..\SmartLookSaloonApplication\SmartLookSaloonApplication.csproj", "{750F3324-F76D-4E1C-9ECC-A9E2EBEF672B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B47C9C6-90E0-4C63-AFCE-82740FD8CA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B47C9C6-90E0-4C63-AFCE-82740FD8CA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B47C9C6-90E0-4C63-AFCE-82740FD8CA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B47C9C6-90E0-4C63-AFCE-82740FD8CA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750F3324-F76D-4E1C-9ECC-A9E2EBEF672B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F3324-F76D-4E1C-9ECC-A9E2EBEF672B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750F3324-F76D-4E1C-9ECC-A9E2EBEF672B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750F3324-F76D-4E1C-9ECC-A9E2EBEF672B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BE6014-3BE7-40F8-AD89-60F1DC43711C}
+	EndGlobalSection
+EndGlobal

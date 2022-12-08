@@ -1,0 +1,5 @@
+E:\Projects\SaloonLibrary\SaloonLibrary\obj\Debug\SaloonLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\SaloonLibrary\SaloonLibrary\bin\Debug\SaloonLibrary.dll
+E:\Projects\SaloonLibrary\SaloonLibrary\bin\Debug\SaloonLibrary.pdb
+E:\Projects\SaloonLibrary\SaloonLibrary\obj\Debug\SaloonLibrary.dll
+E:\Projects\SaloonLibrary\SaloonLibrary\obj\Debug\SaloonLibrary.pdb
