@@ -1,0 +1,5 @@
+Haircut,80
+Shaving,60
+Facial,150
+Manicure,200
+Pedicure,250
